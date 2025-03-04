@@ -1,7 +1,7 @@
 # 📌 DeepLearning-Based Emotion Analyser
 _A deep learning model to analyze facial expressions and predict emotions using Convolutional Neural Networks (CNNs)._
 
-![Emotion Recognition Banner](https://via.placeholder.com/1000x300?text=Deep+Learning+Emotion+Analyser)
+
 
 ---
 
